@@ -1,9 +1,9 @@
 #luccaas07
 
-meu nome é Lucas Rian!
+Meu nome é Lucas Rian!
 
 Estou estudando na Alura,
-Estou me desenvolvendo na linguagem JavaScript
+estou me desenvolvendo na linguagem JavaScript.
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
